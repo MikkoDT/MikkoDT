@@ -1,4 +1,3 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklBQmJmakxqUi0zLTJzVEwyWnBPTG9jaWRxd3xBQ3Jtc0tuZmtfMEkxaURaejRJcUYzREFxakg1REV2bGpMd3JRUk5SdllnMDRSanppYlM2N2c0OGdyVWpyYjNtbURQVjMwMUxReWg5OUdzRmRHeXp6TnVQMXpyWkhFVFlESzdaN0dvdHlRck9XOWN5ZEI0Yldydw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mikko De Torres</h1>
 <h3 align="center">Mechatronics and Robotics Engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/ce/5c/37ce5cbba8852a35113ade2db2e6297c.gif">
