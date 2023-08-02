@@ -2,10 +2,6 @@
 <h3 align="center">Mechatronics and Robotics Engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/ce/5c/37ce5cbba8852a35113ade2db2e6297c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikkodt&label=Profile%20views&color=0e75b6&style=flat" alt="mikkodt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikkodt" alt="mikkodt" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **ML, Embedded Systems**
@@ -17,6 +13,10 @@
 - 📫 How to reach me **https://www.linkedin.com/in/mikko-de-torres/**
 
 - ⚡ Fun fact **I love robotics**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikkodt&label=Profile%20views&color=0e75b6&style=flat" alt="mikkodt" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikkodt" alt="mikkodt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
