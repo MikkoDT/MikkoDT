@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikko De Torres</h1>
 <h3 align="center">Mechatronics and Robotics Engineer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/ce/5c/37ce5cbba8852a35113ade2db2e6297c.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/37/ce/5c/37ce5cbba8852a35113ade2db2e6297c.gif](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)">
 
 - 🔭 I’m currently working on **Data Science Projects**
 
