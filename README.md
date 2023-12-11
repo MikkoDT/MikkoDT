@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics and Robotics Engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Digital Twin Projects**
 
 - 🌱 I’m currently learning **ML, Embedded Systems**
 
