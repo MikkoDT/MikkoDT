@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics and Robotics Engineer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 🔭 I’m currently working on **Jacobian Embedded Physical Informed Neural Network**
+- 🔭 I’m currently working on **Neural Eikonal Field with Jacobian-Aligned Spectral Deformation**
 
 - 🌱 I’m currently learning **Physical Informed Neural Network**
 
